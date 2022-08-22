@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-quote/static/css/main.23fac5bb.css",
+    "main.js": "/fcc-quote/static/js/main.09540558.js",
+    "index.html": "/fcc-quote/index.html",
+    "main.23fac5bb.css.map": "/fcc-quote/static/css/main.23fac5bb.css.map",
+    "main.09540558.js.map": "/fcc-quote/static/js/main.09540558.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23fac5bb.css",
+    "static/js/main.09540558.js"
+  ]
+}
